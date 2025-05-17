@@ -9,7 +9,7 @@ import Testimonials from './components/Testimonials';
 import Contact from './components/Contact';
 import ScrollToTop from './components/ScrollToTop';
 import ChatWidget from './components/ChatWidget';
-import Copyright from './components/CopyRight';
+import Copyright from './components/Copyright';
 
 function App() {
   useEffect(() => {
